@@ -1,4 +1,3 @@
-## Logo
 
 ![OptimusTech Logo](./img/_Button base.svg)
 
