@@ -1,5 +1,5 @@
 
-![OptimusTech Logo](./img/_Button base.svg)
+![OptimusTech Logo](./img/_Button%base.svg)
 
 # OptimusTech
 
