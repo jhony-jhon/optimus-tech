@@ -21,8 +21,8 @@ OptimusTech/
 
 ## Tecnologias Utilizadas
 
-- HTML ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
-- CSS ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+- HTML <img src="https://img.icons8.com/color/48/000000/html-5.png" width="24" height="24"/>
+- CSS <img src="https://img.icons8.com/color/48/000000/css3.png" width="24" height="24"/>
 
 
 ## Desafio
