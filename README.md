@@ -24,9 +24,6 @@ OptimusTech/
 - HTML ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
 - CSS ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
 
-## Logo
-
-![OptimusTech Logo](./img/_Button base.svg)
 
 ## Desafio
 
