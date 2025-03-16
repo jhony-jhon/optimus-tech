@@ -5,6 +5,7 @@
     --cor-texto-dois: #8E2424;
     --cor-texto: #667085;
     --cor-texto-heading: #101828;
+    --cor-texto-vagas: #8E2424 5%;
 }
 
 * {
@@ -131,6 +132,62 @@ button#signUp {
     text-align: left;
     line-height: 24px;
     color: var(--cor-texto);
+}
+
+.container-vagas {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width: 90%;
+    height: 138px;
+    margin: 6rem 0 0 5rem;
+    padding: 0 2rem;
+    gap: 2rem;
+}
+
+.subtitulo-vagas {
+    background: var(--cor-texto);
+    color: var(--cor-texto-vagas)
+    border-style: dashed;
+    border-radius: 16px;
+    padding: 4px 12px 4px 12px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.titulo-vagas {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    color: var(--cor-texto-heading);
+}
+
+.descricao-vagas {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: var(--cor-texto);
+}
+
+.container-imagem-team {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+
+.imagem-team {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6rem 6rem;
+    width: 100%;
+    height: auto;
+
 }
 
 
